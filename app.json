@@ -1,0 +1,12 @@
+{
+  "name": "offline-queue",
+  "displayName": "offline-queue",
+  "expo": {
+    "name": "offline-queue",
+    "slug": "offline-queue",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
